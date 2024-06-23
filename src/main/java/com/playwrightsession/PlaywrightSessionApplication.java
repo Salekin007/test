@@ -6,9 +6,4 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class PlaywrightSessionApplication {
 
-    public static void main(String[] args)
-    {
-        SpringApplication.run(PlaywrightSessionApplication.class, args);
-    }
-
 }
